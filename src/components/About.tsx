@@ -12,7 +12,8 @@ export const About = () => {
             <div className="flex flex-col items-start justify-items-center gap-2 bg-gray-100 w-full h-full p-8 rounded-lg shadow-md">
                 <h1 className="text-4xl text-gray-500">Misi</h1>
                 <ul className="text-gray-500 list-disc list-inside">
-                    <li>Mengembangkan portofolio properti yang menguntungkan dan berkelanjutan.</li>
+                    <li>Memberikan produk furnitur,dekorasi rumah, dan fashion berkualitas tinggi dengan desain inovatif dan harga kompetitif.</li>
+                    <li>Mengembangkan properti yang berkualitas dan dengan lokasi yang strategis.</li>
                     <li>Membangun hubungan jangka panjang yang kuat dengan pelanggan, pemasok,dan karyawan.</li>
                     <li>Berkontribusi pada perekonomian Indonesia melalui penciptaan lapangan kerja dan pengembangan usaha yang berkelanjutan.</li>
                 </ul>
