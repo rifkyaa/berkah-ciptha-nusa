@@ -43,13 +43,4 @@ const faqdata = [
     question: "Apakah perusahaan menerima pesanan custom (desain khusus)?",
     answer: "Tentu! Kami menerima pesanan custom, terutama untuk produk furniture dan batik. Tim kami siap membantu mewujudkan desain sesuai kebutuhan Anda.",
   },
-  {
-    question: "Di mana lokasi kantor atau showroom perusahaan?",
-    answer: "Alamat lengkap di Jl.Sersan Bajuri no 108 Bandung Jawa Barat. Silakan kunjungi langsung atau buat janji temu terlebih dahulu.",
-  },
-  {
-    question: "Apakah ada garansi untuk produk yang dibeli?",
-    answer:
-      "Ya, kami memberikan garansi untuk produk tertentu. Informasi garansi akan disampaikan saat pembelian atau pemesanan dilakukan.",
-  },
 ];
