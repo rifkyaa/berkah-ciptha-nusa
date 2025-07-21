@@ -85,7 +85,7 @@ export function Footer() {
           </div>
 
           <div>
-            <div className="flex w-full -mt-2 -ml-3 lg:ml-0">
+            <div className="flex flex-wrap items-center justify-center">
               {navigation.map((item, index) => (
                 <Link
                   key={index}
