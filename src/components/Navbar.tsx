@@ -38,7 +38,7 @@ export const Navbar = () => {
                   className="w-8 object-cover rounded-sm"
                 />
               </span>
-            <span className="text-sm md:text-lg">Berkah Ciptha Nusaa</span>
+            <span className="text-sm md:text-lg">Berkah Ciptha Nusa</span>
           </span>
         </Link>
 
