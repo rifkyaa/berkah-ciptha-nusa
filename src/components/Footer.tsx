@@ -31,7 +31,7 @@ export function Footer() {
             </div>
 
             <div className="max-w-md mt-4 text-gray-500 dark:text-gray-400">
-              Berkah Ciptha Nusha adalah pelaku usaha di bidang properti dan ekspor produk lokal seperti dekorasi rumah, fashion, dan F&B.
+              Berkah Ciptha Nusa adalah pelaku usaha di bidang properti dan ekspor produk lokal seperti dekorasi rumah, fashion, dan F&B.
             </div>
             <div>
               <div className="flex mt-5 space-x-5 text-gray-400 dark:text-gray-500">
