@@ -13,7 +13,7 @@ export const Hero = () => {
         <div className="flex items-center w-full lg:w-1/2 lg:ml-7">
           <div className="max-w-2xl mb-8">
             <h1 className="text-4xl font-bold leading-snug tracking-tight text-gray-800 lg:text-6xl lg:leading-tight xl:leading-tight dark:text-white text-center md:text-start">
-              Mendorong Pertumbuhan Lewat Properti & Ekspor Unggulan
+              Mendorong Pertumbuhan Ekonomi Lewat Properti & Ekspor Unggulan
             </h1>
             <p className="py-5 text-lg leading-normal text-gray-500 xl:text-xl dark:text-gray-300 text-center md:text-start">
               Berkah Ciptha Nusa adalah pelaku usaha di bidang properti dan ekspor produk lokal seperti dekorasi rumah, fashion, dan F&B.
